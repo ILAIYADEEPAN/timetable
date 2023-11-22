@@ -1,5 +1,3 @@
-# Experiment_Time_Table
-
 ## AIM
 To Write a html webpage page to display your timetable.
 
@@ -251,7 +249,9 @@ html>
 ```
 
 # OUPUT:
-![output](/![Alt text](timetable.jpg))
+![output](/![image](https://github.com/ILAIYADEEPAN/timetable/assets/147473334/bb77058c-7956-41ff-98b0-48a689047ca9)# Experiment_Time_Table
+
+
 
 # RESULT:
 The program for creating slot timetable using basic HTML tags in exceuted successfully.
